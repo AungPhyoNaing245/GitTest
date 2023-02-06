@@ -9,6 +9,8 @@ public class HelloWorld {
 		System.out.println("Test vi editor");
 		
 		System.out.println("Inside developer_001 Branch");
+		
+		System.out.println("to test shopping cart features");
 	}
 
 }
